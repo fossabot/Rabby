@@ -57,6 +57,7 @@ Run `yarn build:pro` to build a production package, which will be in the `dist` 
 ## Architecture
 
 ![architecture](./docs/architecture.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2FRabby.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2FRabby?ref=badge_shield)
 
 ## Extension's Scripts
 
@@ -117,3 +118,7 @@ Thanks to contributions from the MetaMask team to the browser extension wallet c
 ## Other Docs
 
 - [How to add a new translation to Rabby](/docs/translation.md)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2FRabby.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2FRabby?ref=badge_large)
